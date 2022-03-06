@@ -15,7 +15,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/developers/android/tm/images/factory/barbet-tpp1.220114.016-factory-1b66f4a5.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.015.a4-factory-074b7f51.zip
   ROM_NAME: Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
