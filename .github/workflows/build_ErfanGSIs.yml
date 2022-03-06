@@ -15,9 +15,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ava2.androidfilehost.com/dl/QLYQG2BRJv9WZwQXYQcPlw/1646676940/17248734326145727580/Infinix_S4_X626B_MT6765_V8_190524_%28by_firmwarefile.com%29.zip?
-  ROM_NAME: Generic
-  BUILD_TYPE: aonly
+  ROM_URL: https://dl.google.com/developers/android/tm/images/factory/barbet-tpp1.220114.016-factory-1b66f4a5.zip
+  ROM_NAME: Pixel
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
