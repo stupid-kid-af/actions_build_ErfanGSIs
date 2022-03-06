@@ -15,7 +15,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/oriole-sd1a.210817.015.a4-factory-074b7f51.zip
+  ROM_URL: https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip
   ROM_NAME: Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
