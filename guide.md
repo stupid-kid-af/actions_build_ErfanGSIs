@@ -28,7 +28,7 @@ Generic System Image，简称GSI。
 * 点击右上角Fork，等待Fork完毕
 * 进入你的账号，进入这个仓库
 
->第二步 修改Actions流程文件并开始构建
+>第二步 修改Actions流程文件并开始构建 
 
 * 选择第一个 .github/workflows，点击进入
 * 点击后缀为yml的文件
