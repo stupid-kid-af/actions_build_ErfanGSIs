@@ -15,7 +15,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download2262.mediafire.com/nm3yqmuevq7g/hlimbo7x4u65boh/Infinix_Note_10_X693_MT6768_V575_210604.zip
+  ROM_URL: https://ava2.androidfilehost.com/dl/QLYQG2BRJv9WZwQXYQcPlw/1646676940/17248734326145727580/Infinix_S4_X626B_MT6765_V8_190524_%28by_firmwarefile.com%29.zip?
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
