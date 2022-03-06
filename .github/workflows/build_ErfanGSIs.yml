@@ -16,7 +16,7 @@ on:
     
 env:
   ROM_URL: https://dl.google.com/developers/android/sc/images/factory/bramble-s2b3.220205.007.a1-factory-b9eab1c0.zip
-  ROM_NAME: MIUI
+  ROM_NAME: Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
