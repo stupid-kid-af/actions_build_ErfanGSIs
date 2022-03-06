@@ -6,7 +6,7 @@ Hello eyeryone，这里是5月18日才开学的巨龙Jvlong。
 ***
 ### 前言：
 疫情期间在线上课没事干，正好在折腾Openwrt云编译，就去学习了一下Github Actions，想做一个试试手，于是就凑时间（mo yu）写了一个Github Actions自动化跑ErfanGSI的脚本。
-项目地址：https://github.com/together08/actions_build_erfangsis
+项目地址 ：https://github.com/together08/actions_build_erfangsis
 ***
 ### GitHub Actions简单介绍：
 Github Actions是Github推出的一个新的功能，可以为我们的项目自动化地构建工作流，例如代码检查，自动化打包，测试，发布版本等等。由于基于Docker，所以用完释放（不存储任何东西）。  
