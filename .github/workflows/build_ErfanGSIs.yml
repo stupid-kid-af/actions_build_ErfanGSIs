@@ -17,7 +17,7 @@ on:
 env:
   ROM_URL: https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip
   ROM_NAME: Pixel
-  BUILD_TYPE: ab
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
