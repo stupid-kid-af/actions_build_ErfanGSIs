@@ -15,9 +15,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.12.0.QJFINXM/citrus_in_global_images_V12.0.12.0.QJFINXM_20220220.0000.00_10.0_in_fd1dbcdfab.tgz
   ROM_NAME: Pixel
-  BUILD_TYPE: aonly
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
